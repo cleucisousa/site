@@ -1,0 +1,10 @@
+body {
+background-color: rgb(174, 183, 192);
+}
+h1 {
+    text-align: center;
+}
+img {
+    width: 200px;
+    right: 200px;
+}
